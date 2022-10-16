@@ -26,11 +26,8 @@ This file contains all the queries to get the required statistics from the datab
 
 Through this project I learnt how to do the following:
 
-- CREATE A DATABASE in PostgreSQL and connect to it
-- CREATE TABLES with multipe columns simultaneously
-- Set NOT NULL and UNIQUE constraints
-- Set a SERIAL PRIMARY KEY and 2 FOREIGN KEYS and connect two tables using both foreign keys
-- Give EXECUTABLE PERMISSIONS to the script file
+- Set 2 FOREIGN KEYS and connect two tables using both foreign keys
+- Give EXECUTABLE PERMISSIONS to the script file in the bash terminal
 - Use 'cat'(concatenate) command in bash to read data from the games file and give its contents as ouput
 - Add comments in bash using '#'
 - Create a 'while' loop in bash
